@@ -1,2 +1,3 @@
-total marks of Sarah Islam = 177
-total marks of Abdullah = 160
+akib 10 65
+rakib 18 65
+sakib 15 89
