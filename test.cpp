@@ -5,10 +5,9 @@
 using namespace std;
 
 int main(){
-    string s = "hello";
-    for (char ch : s) {
-        cout << ch << " ";
-    }
+    int n;
+    cin>> n;
+    cout<< n <<endl;
     
     return 0;
 }
