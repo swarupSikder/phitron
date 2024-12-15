@@ -20,7 +20,7 @@ int main(){
 
     a.next = &b;
     b.next = &c;
-    // c.next = NULL;   //automatic null
+    // c.next = NULL;    //automatic null
 
     // cout<< &a <<" "<< &b <<" "<< &c <<endl;
     // cout<< a.next <<" "<< b.next <<" "<< c.next <<endl;
